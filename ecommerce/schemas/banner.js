@@ -23,8 +23,8 @@ export default{
             type : 'string',
         },
         {
-            name : 'description',
-            title : 'Description',
+            name : 'desc',
+            title : 'Desc',
             type : 'string',
         },
         {
